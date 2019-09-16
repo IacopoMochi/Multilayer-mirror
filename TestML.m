@@ -14,7 +14,7 @@ parameters.h = [2.506,0.802,1.904,1.844];
 parameters.h0 = [0,2];
 parameters.hsubs = 1000;
 parameters.N = 40;
-parameters.theta0 = (0:25/100:25)*pi/180;
+parameters.theta0 = (0:0.1:25)*pi/180;
 parameters.wavelength = 13.5;
 
 close
